@@ -6,7 +6,7 @@ width="200"/>
 I am a junior developer with a passion for creating intuitive and engaging software. I take pride in my attention to detail and my ability to collaborate with clients to ensure their vision is brought to life. Although my background is in manufacturing engineering, I have always been interested in technology and coding, and I've been teaching myself web development for over a year before embarking on the Makers Academy Bootcamp. After honing my trade in the world of aerospace, I am transferring the skills I have built as a CNC Programming Engineer over to a profession in coding. After discovering my love for coding, I decided to transition into a career in tech and pursue my passion for software engineering. I've dedicated countless hours to learning the ins and outs of web development, from HTML, CSS, and JavaScript to more advanced topics like React and Node.js as well as taking a deeper dive into Python with the help of the Makers.
 
 ---
-[Socials](#-socials) | [Projects](#-projects) | [Education](#-education) | [Experience](#-skills) | [Hobbies](#-hobbies)
+[Socials](#-socials) | [Projects](#-projects) | [Experience](#-experience) | [Skills](#-skills) | [Education](#-education) | [Hobbies](#-hobbies)
 ---
 
 ## 🌐 Socials
