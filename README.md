@@ -126,7 +126,7 @@ In the summer of 2022, I proactively pursued my ambition to become a software de
 - BTEC Level 3 National Certificate in Mechanical Engineering
   - Grade: Distinction - Merit
 
-### Other qualifications
+### Other Qualifications
 
 - OpenMind HyperMill CAM Software Training - 2022
 - CATIA V5 CAD - Fundatmental Training - 2015
