@@ -65,9 +65,9 @@ machines
 
 ## 🧑‍🔧 Skills
 
-### Problem Solving
+### Problem-solving
 
-Problem-solving has always been an integral part of my daily life, and my role as a manufacturing engineer provided a platform to nurture and elevate this skill. A notable experience occurred during my time as a CNC programming engineer, where I was given the challenge of producing an exceptionally complex component using innovative CNC techniques and recently aquired software. This program demanded extensive exploration, diligent research, and a degree of trial and error to achieve the desired level of quality. By successfully transitioning the manufacturing of this component in-house, we achieved substantial cost savings and significantly enhanced our ability to deliver shorter lead times to our customers. This experience hightlights my proficiency in problem-solving and my commitment to driving efficiency and quality improvements.
+Problem-solving has always been an integral part of my daily life, and my role as a manufacturing engineer provided a platform to nurture and elevate this skill. A notable experience occurred during my time as a CNC programming engineer, where I was given the challenge of producing an exceptionally complex component using innovative CNC techniques and recently acquired software. This program demanded extensive exploration, diligent research, and a degree of trial and error to achieve the desired level of quality. By successfully transitioning the manufacturing of this component in-house, we achieved substantial cost savings and significantly enhanced our ability to deliver shorter lead times to our customers. This experience highlights my proficiency in problem-solving and my commitment to driving efficiency and quality improvements.
 
 ### Pair Programming
 
@@ -83,7 +83,7 @@ During my time at Makers, one of the skills I really benefitted from was the abi
 
 ### Organisation / Planning
 
-In my role as a Programming Engineer at Ipeco, I consistently played a proactive role in project organization and planning. This entailed the development of comprehensive progress tracking systems to monitor tasks and guarantee the on-time delivery of time-sensitive projects. Additionally, I introduced a skills matrix to identify optimal task scheduling, ensuring efficient project execution and resource allocation.
+In my role as a Programming Engineer at Ipeco, I consistently played a proactive role in project organisation and planning. This entailed the development of comprehensive progress tracking systems to monitor tasks and guarantee the on-time delivery of time-sensitive projects. Additionally, I introduced a skills' matrix to identify optimal task scheduling, ensuring efficient project execution and resource allocation.
 
 ### Emotional Intelligence
 
