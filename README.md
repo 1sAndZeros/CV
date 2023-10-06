@@ -1,11 +1,23 @@
 # CV - Rikie Patrick
 
-<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Prescription02&hairColor=Brown&facialHairType=BeardLight&facialHairColor=Brown&clotheType=ShirtCrewNeck&clotheColor=Gray02&eyeType=Default&eyebrowType=RaisedExcitedNatural&mouthType=Default&skinColor=Pale'
+<img src='https://avatars.githubusercontent.com/u/101474198?s=400&u=c3d0b73e42b6830fa77ec2529eeee38d0b3cc7fc&v=4'
 width="200"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Rikie Patrick
+I am a junior developer with a passion for creating intuitive and engaging software. I take pride in my attention to detail and my ability to collaborate with clients to ensure their vision is brought to life. Although my background is in manufacturing engineering, I have always been interested in technology and coding, and I've been teaching myself web development for over a year before embarking on the Makers Academy Bootcamp. After honing my trade in the world of aerospace, I am transferring the skills I have built as a CNC Programming Engineer over to a profession in coding. After discovering my love for coding, I decided to transition into a career in tech and pursue my passion for software engineering. I've dedicated countless hours to learning the ins and outs of web development, from HTML, CSS, and JavaScript to more advanced topics like React and Node.js as well as taking a deeper dive into Python with the help of the Makers.
 
-I am a **junior developer** with a passion for creating intuitive and engaging software. I take pride in my attention to detail and my ability to collaborate with clients to ensure their vision is brought to life. Although my background is in manufacturing engineering, I have always been interested in **technology** and **coding**, and I've been teaching myself **web development** for over a year before embarking on the **Makers Academy Bootcamp**. After honing my trade in the world of aerospace, I am transferring the skills I have built as a CNC **Programming Engineer** over to a profession in **coding**. After discovering my love for **coding**, I decided to transition into a career in tech and pursue my passion for **software engineering**. I've dedicated countless hours to learning the ins and outs of **web development**, from **HTML**, **CSS**, and **JavaScript** to more advanced topics like **React** and **Node.js** as well as taking a deeper dive into **Python** with the help of the Makers.
+---
+[Socials](#-socials) | [Projects](#-projects) | [Education](#-education) | [Experience](#-skills) | [Hobbies](#-hobbies)
+---
+
+## 🌐 Socials
+
+[![RPatrick.dev](https://img.shields.io/badge/RPatrick.dev-00A3E1?style=for-the-badge&logo=discord&logoColor=white)](https://rpatrick.dev)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikiepatrick@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rikie-patrick)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RikiePatrick)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/r_patrick)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/1sAndZeros)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/1sAndZeros) 
 
 ## 📂 Projects
 
@@ -51,38 +63,48 @@ components
 - Set and run various CNC machines including Mazak, Matsuura and Citizen
 machines
 
-# TODO
-
 ## 🧑‍🔧 Skills
 
 ### Problem Solving
 
-- A little here about problem solving
+Problem-solving has always been an integral part of my daily life, and my role as a manufacturing engineer provided a platform to nurture and elevate this skill. A notable experience occurred during my time as a CNC programming engineer, where I was given the challenge of producing an exceptionally complex component using innovative CNC techniques and recently aquired software. This program demanded extensive exploration, diligent research, and a degree of trial and error to achieve the desired level of quality. By successfully transitioning the manufacturing of this component in-house, we achieved substantial cost savings and significantly enhanced our ability to deliver shorter lead times to our customers. This experience hightlights my proficiency in problem-solving and my commitment to driving efficiency and quality improvements.
 
 ### Pair Programming
 
-- A little here about pair programming and commincation skills
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Throughout my time at the Makers Bootcamp, I actively embraced pair programming as a fundamental practice in software development. This experience honed my collaborative skills, fostered effective communication, and equipped me to tackle intricate coding challenges alongside colleagues. It showcases my adaptability, technical proficiency, and readiness to excel in a team-centric work environment, making me an asset to any software development team.
+
+### Leadership
+
+While enrolled in the Makers Bootcamp, I proactively volunteered to lead the team in conducting demos and our retrospective at the conclusion of our first group project. This decision was a deliberate step outside my comfort zone, driven by the desire to strengthen my skills in areas where I felt less confident. Guiding this session proved to be both an enriching and enjoyable experience. It not only allowed us as a team to reflect collectively on our first group project but also fostered open communication. I  was able to engage with my peers, gaining valuable insights into their experiences and identifying common themes within the feedback and comments shared. This experience highlighted my commitment to teamwork and continuous improvement in our collaborative learning environment.
+
+### Teaching
+
+During my time at Makers, one of the skills I really benefitted from was the ability to help and teach others. I actively engaged in a culture of collaboration and knowledge sharing. I took the initiative to assist fellow members of the cohort by providing guidance and support on challenging exercises and better insight into some of the material. This experience allowed me to reinforce my own understanding of programming concepts while helping my peers overcome obstacles. It also demonstrated my strong teamwork and communication skills, reinforcing my commitment to promoting a collaborative learning environment within the workplace.
 
 ### Organisation / Planning
 
-During my time as a Programming Engineer at Ipeco. I always contributed to the organisation and planning of projects. This often involved creating progress trackers in order to track tasks and ensure prompt delivery of time crtical projects. I also created a skills matrix in order to identify when certain tasks are required to be completed.
+In my role as a Programming Engineer at Ipeco, I consistently played a proactive role in project organization and planning. This entailed the development of comprehensive progress tracking systems to monitor tasks and guarantee the on-time delivery of time-sensitive projects. Additionally, I introduced a skills matrix to identify optimal task scheduling, ensuring efficient project execution and resource allocation.
+
+### Emotional Intelligence
+
+While collaborating on projects, I encountered situations where conflicts of interest and interpersonal dynamics could potentially disrupt the team's synergy. In such instances, I recognized the significance of maintaining a harmonious and supportive work environment for all team members. In a specific project, I assumed a leadership role within the group, actively addressing and mitigating these challenges. I also took the initiative to engage with individuals privately, ensuring their comfort and providing a safe space for open discussions about any personal challenges they may have been facing.
+
+### Ambition
+
+In the summer of 2022, I proactively pursued my ambition to become a software developer. I dedicated time to learn new languages and technologies, built personal projects and a developer portfolio website for employment prospects, and completed a four-month coding bootcamp. This showcases my ambition and commitment to a software engineering career.
 
 ## 📚 Education
 
 ### Makers Academy (July 2023 - October 2023)
 
-- Frequently used paring in order to problem solve effectively and efficently on group projects, which enabled me to develop my commincation skills. 
-- Regularly attended EQ workshops in order to strengthen my emotional intelligence, be better equipped to understand and manage my emotions, and recognize the emotions of others.
-- Used test driven development (TDD) when undertaking challenges allowed for a greater level of understanding of how to break tasks down. 
-- Honed my object oriented programming (OOP) skills ........
-- Python, JavaScript ........
-- Model View Controller (MVC) .........
-- Domain-driven design (DDD) .........
-- Agile/XP ..........
+- Collaborated on diverse group projects, applying pair programming techniques to enhance problem-solving efficiency and communication skills while delivering high-quality solutions.
+- Actively participated in emotional intelligence (EQ) workshops, fostering the ability to recognize and manage emotions both personally and in team dynamics, leading to improved collaboration and team cohesion.
+- Embraced a test-driven development (TDD) approach throughout coding challenges, demonstrating a thorough understanding of breaking down tasks and effectively using testing frameworks such as Pytest, Jest, Playwright, and Cypress.
+- Engaged in regular code reviews with peers, providing and receiving constructive feedback to enhance code quality and programming skills.
+- Demonstrated adaptability and a growth mindset by rapidly acquiring new programming languages and frameworks, successfully applying them to various projects.
+- Acted as a mentor to fellow bootcamp participants, sharing knowledge and expertise to support their learning journey and reinforcing personal understanding of coding concepts.
+- Demonstrated proficiency in Agile methodologies, actively participating in sprint planning, daily stand-ups, and retrospectives to promote iterative development, collaboration, and the delivery of high-value software features.
+- Proficiently implemented the Model-View-Controller (MVC) architectural pattern in various coding bootcamp projects, ensuring clear separation of concerns and maintainability of codebases.
 
 ### Havering College (Sept 2014 - Aug 2016)
 
@@ -119,26 +141,3 @@ During my time as a Programming Engineer at Ipeco. I always contributed to the o
 - ⚽ ⚒️ Football - West Ham United
 - 🎧 🎵 Festival Season - Electronic, Trance, Indie!
 - 💉 🩸 Regular Blood Donor
-
-## 🌐 Socials
-
-[![RPatrick.dev](https://img.shields.io/badge/RPatrick.dev-00A3E1?style=for-the-badge&logo=discord&logoColor=white)](https://rpatrick.dev)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikiepatrick@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rikie-patrick)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RikiePatrick)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/r_patrick)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/1sAndZeros)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/1sAndZeros) 
-
-## 💻 Tech Stack
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
