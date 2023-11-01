@@ -34,9 +34,22 @@ I'm a passionate Software Developer with a keen eye for detail and a talent for 
 
 ## 🏢 Experience
 
-**Ipeco Holdings Ltd** (Sept 2016 - July 2023)  
+
+### Makers Academy (July 2023 - October 2023)
+
+- Collaborated on diverse group projects, applying pair programming techniques to enhance problem-solving efficiency and communication skills while delivering high-quality solutions.
+- Actively participated in emotional intelligence (EQ) workshops, fostering the ability to recognize and manage emotions both personally and in team dynamics, leading to improved collaboration and team cohesion.
+- Embraced a test-driven development (TDD) approach throughout coding challenges, demonstrating a thorough understanding of breaking down tasks and effectively using testing frameworks such as Pytest, Jest, Playwright, and Cypress.
+- Engaged in regular code reviews with peers, providing and receiving constructive feedback to enhance code quality and programming skills.
+- Demonstrated adaptability and a growth mindset by rapidly acquiring new programming languages and frameworks, successfully applying them to various projects.
+- Acted as a mentor to fellow bootcamp participants, sharing knowledge and expertise to support their learning journey and reinforcing personal understanding of coding concepts.
+- Demonstrated proficiency in Agile methodologies, actively participating in sprint planning, daily stand-ups, and retrospectives to promote iterative development, collaboration, and the delivery of high-value software features.
+- Proficiently implemented the Model-View-Controller (MVC) architectural pattern in various coding bootcamp projects, ensuring clear separation of concerns and maintainability of codebases.
+
+### Ipeco Holdings Ltd (Sept 2016 - July 2023)  
 _CNC Machine Tool Programming Engineer_
 
+- Programmed CNC machine tools to manufacture complex aerospace and military components using advanced tooling and techniques.
 - Identified and implemented cost-effective manufacturing solutions
 - Liaised with the Engineering Department to ensure manufacturability of
 potential new design solutions as well as assisting in the development of
@@ -50,7 +63,7 @@ develop the business
 - Liaised with various departments to deliver new projects in a timely
 manner
 
-**Ipeco Holdings Ltd** (Sept 2012 - Sept 2016)  
+### Ipeco Holdings Ltd (Sept 2012 - Sept 2016)  
 _Technical Apprentice_
 
 - Developed core engineering skills such as milling, turning, hand fitting
@@ -97,17 +110,6 @@ While collaborating on projects, I encountered situations where conflicts of int
 In the summer of 2022, I proactively pursued my ambition to become a software developer. I dedicated time to learn new languages and technologies, built personal projects and a developer portfolio website for employment prospects, and completed a four-month coding bootcamp. This showcases my ambition and commitment to a software engineering career.
 
 ## 📚 Education
-
-### Makers Academy (July 2023 - October 2023)
-
-- Collaborated on diverse group projects, applying pair programming techniques to enhance problem-solving efficiency and communication skills while delivering high-quality solutions.
-- Actively participated in emotional intelligence (EQ) workshops, fostering the ability to recognize and manage emotions both personally and in team dynamics, leading to improved collaboration and team cohesion.
-- Embraced a test-driven development (TDD) approach throughout coding challenges, demonstrating a thorough understanding of breaking down tasks and effectively using testing frameworks such as Pytest, Jest, Playwright, and Cypress.
-- Engaged in regular code reviews with peers, providing and receiving constructive feedback to enhance code quality and programming skills.
-- Demonstrated adaptability and a growth mindset by rapidly acquiring new programming languages and frameworks, successfully applying them to various projects.
-- Acted as a mentor to fellow bootcamp participants, sharing knowledge and expertise to support their learning journey and reinforcing personal understanding of coding concepts.
-- Demonstrated proficiency in Agile methodologies, actively participating in sprint planning, daily stand-ups, and retrospectives to promote iterative development, collaboration, and the delivery of high-value software features.
-- Proficiently implemented the Model-View-Controller (MVC) architectural pattern in various coding bootcamp projects, ensuring clear separation of concerns and maintainability of codebases.
 
 ### Havering College (Sept 2014 - Aug 2016)
 
